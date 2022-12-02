@@ -1,4 +1,4 @@
-package com.web;
+package com.web.p01;
 
 public class test {
 
